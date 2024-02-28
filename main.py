@@ -57,4 +57,4 @@ def main(page: Page):
     )
 
 
-flet.app(port=8550, target=main, view=flet.WEB_BROWSER)
+flet.app(port=8550, target=main)
